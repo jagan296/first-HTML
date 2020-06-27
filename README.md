@@ -1,7 +1,14 @@
 # first-HTML
 My first learning of HTML
-<html> here the code goes </html>
-<head> here is page title </head>
-<body> body of the code </body>
-<h1> heading of the code </h1>
-<p> can include paragraphs </p>
+<html>
+  <head>
+    html in github
+  </head>
+  <body>
+    <h1>HTML</h1>
+    <p>HTML stands for Hyper Text Markup Language</p>
+    <p>HTML is the standard markup language for creating Web pages</p>
+     <p>HTML describes the structure of a Web page</p>
+     <p>HTML consists of a series of elements</p>
+     <p>HTML elements tell the browser how to display the content</p>
+     <p>HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.</p>
